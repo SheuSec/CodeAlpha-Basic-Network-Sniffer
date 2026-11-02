@@ -1,1 +1,67 @@
+# 01 - Introduction to Network Sniffing
 
+## 1.1 Project Overview
+
+Network traffic analysis is an important part of cybersecurity. 
+Every time computers communicate across a network, packets of 
+information travel between devices.
+
+Understanding how these packets move helps security professionals 
+monitor network activity, troubleshoot communication problems, 
+and identify potentially suspicious behaviour.
+
+This project involves developing a basic network packet sniffer 
+using Python and the Scapy library.
+
+The application captures IPv4 packets from a selected network 
+interface, identifies common protocols, displays packet metadata, 
+and records captured information in a local log file.
+
+## 1.2 Project Objectives
+
+The main objectives are:
+
+- Understand the fundamentals of network packet sniffing.
+- Learn how network packets are transmitted.
+- Use Python to capture network traffic.
+- Identify TCP, UDP, and ICMP protocols.
+- Analyse DNS queries and responses.
+- Extract source and destination IP addresses.
+- Identify port numbers and packet sizes.
+- Record captured packet information for analysis.
+
+## 1.3 Tools and Technologies
+
+| Tool | Purpose |
+|------|---------|
+| Kali Linux | Operating system and testing environment |
+| Python | Programming language |
+| Scapy | Packet capture and analysis |
+| Hyper-V | Virtualization environment |
+
+## 1.4 Expected Outcome
+
+At the end of this project, the application should be able to:
+
+1. Capture IPv4 packets.
+2. Identify TCP, UDP, and ICMP traffic.
+3. Display source and destination addresses.
+4. Identify port numbers where applicable.
+5. Recognize DNS queries and responses.
+6. Display timestamps and packet sizes.
+7. Save packet information to a local log file.
+
+## 1.5 Project Scope
+
+This is an educational network monitoring project.
+
+Testing is performed within an authorized laboratory 
+environment. The application focuses on packet metadata 
+and does not decrypt encrypted communications.
+
+---
+
+**Project:** CodeAlpha Basic Network Sniffer  
+**Author:** Sheu Abduljelil Olamide  
+**Email:** writewithsheu@gmail.com
+**Internship:** CodeAlpha Cybersecurity Internship
