@@ -78,7 +78,7 @@ https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots
 
 This screenshot demonstrates that the Python source file passed the compilation check.
 
-![Python Syntax Verification](../screenshots/05-python-syntax-verification.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/scapy-verification.pdf
 
 ## 3.7 Conclusion
 
