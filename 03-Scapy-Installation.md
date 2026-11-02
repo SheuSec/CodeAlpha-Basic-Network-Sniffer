@@ -72,7 +72,7 @@ https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots
 
 This screenshot shows the successful installation and verification of Scapy version 2.8.0.
 
-![Scapy Verification](../screenshots/04-scapy-verification.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/scapy-verification.pdf
 
 ### Screenshot 3: Python Syntax Verification
 
