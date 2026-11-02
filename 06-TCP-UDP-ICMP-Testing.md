@@ -112,7 +112,7 @@ https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots
 
 ### Screenshot 2: ICMP Testing
 
-![ICMP Testing](../screenshots/11-icmp-request-reply-analysis.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/ICMP%20Analysis.pdf
 
 ### Screenshot 3: UDP and DNS Traffic
 
@@ -124,8 +124,3 @@ The practical tests demonstrated that the network sniffer could capture and iden
 
 The successful observations confirmed the basic packet identification and metadata extraction functionality of the application.
 
----
-
-**Project:** CodeAlpha Basic Network Sniffer  
-**Author:** Sheu Abduljelil  
-**Internship:** CodeAlpha Cybersecurity Internship
