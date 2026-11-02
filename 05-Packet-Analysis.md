@@ -111,7 +111,7 @@ Capture the Echo Request and Echo Reply messages.
 
 ### Screenshot 3: UDP Analysis
 
-Capture the DNS query for example.com and its response.
+Capture the UDP query for example.com and its response.
 
 ![DNS Packet Analysis](../screenshots/10-dns-query-response-analysis.png)
 
