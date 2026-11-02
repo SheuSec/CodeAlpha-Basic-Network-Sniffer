@@ -84,7 +84,7 @@ The test demonstrated the following communication sequence:
 
 Capture the terminal showing the DNS query for `example.com` and its corresponding response.
 
-![DNS Query and Response](../screenshots/10-dns-query-response-analysis.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/DNS%20Lookup%20Command.pdf
 
 ### Screenshot 2: DNS Lookup Command
 
