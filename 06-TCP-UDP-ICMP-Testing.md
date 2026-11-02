@@ -116,7 +116,7 @@ It displayed the source and destination addresses, port numbers, and packet size
 
 ### Screenshot 3: UDP and DNS Traffic
 
-![UDP and DNS Testing](../screenshots/10-dns-query-response-analysis.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/UDP%20testing.pdf
 
 ## 6.7 Conclusion
 
