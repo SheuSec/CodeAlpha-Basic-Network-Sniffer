@@ -121,7 +121,7 @@ Pressing `CTRL+C` stops the capture session.
 
 Capture the complete or clearly readable sections of `sniffer.py` in your Kali editor.
 
-![Python Sniffer Source Code](../screenshots/06-sniffer-source-code.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/sniffer-source-code.pdf
 
 ### Screenshot 2: Running Network Sniffer
 
