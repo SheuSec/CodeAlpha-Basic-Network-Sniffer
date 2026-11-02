@@ -127,13 +127,13 @@ Practical screenshots documenting the development, execution, and testing proces
 
 Explore the project documentation:
 
-1. [Project Introduction](01-Project-Overview/01-Introduction.md)
-2. [Tools and Development Environment](01-Project-Overview/02-Tools-and-Environment.md)
-3. [Scapy Installation and Verification](02-Implementation/03-Scapy-Installation.md)
-4. [Python Sniffer Development](02-Implementation/04-Python-Sniffer-Development.md)
-5. [Network Packet Analysis](02-Implementation/05-Packet-Analysis.md)
+1. [Project Introduction](https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/01-Project-Overview)
+2. [Tools and Development Environment](https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/02-Tools-and-Environment.md)
+3. [Scapy Installation and Verification](https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/03-Scapy-Installation.md)
+4. [Python Sniffer Development](https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/04-Python-Sniffer-Development.md)
+5. [Network Packet Analysis](https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/05-Packet-Analysis.md)
 6. [TCP, UDP and ICMP Testing](03-Testing-and-Results/06-TCP-UDP-ICMP-Testing.md)
-7. [DNS Traffic Analysis](03-Testing-and-Results/07-DNS-Traffic-Analysis.md)
+7. [DNS Traffic Analysis](https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/07-DNS-Traffic-Analysis.md)
 8. [Packet Logging and Verification](https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/08-Logging-and-Verification.md)
 
 ## 🔐 Security and Ethical Considerations
@@ -154,7 +154,7 @@ Packet logs may contain sensitive network metadata. They are excluded from the p
 
 ## 👨‍💻 Author
 
-**Sheu Abduljelil**
+**Sheu Abduljelil Olamide**
 
 Cybersecurity Analyst & SOC Specialist
 
