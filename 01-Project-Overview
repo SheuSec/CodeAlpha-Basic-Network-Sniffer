@@ -1,5 +1,3 @@
-# 01 - Introduction to Network Sniffing
-
 ## 1.1 Project Overview
 
 Network traffic analysis is an important part of cybersecurity. 
@@ -58,8 +56,6 @@ This is an educational network monitoring project.
 Testing is performed within an authorized laboratory 
 environment. The application focuses on packet metadata 
 and does not decrypt encrypted communications.
-
----
 
 **Project:** CodeAlpha Basic Network Sniffer  
 **Author:** Sheu Abduljelil  
