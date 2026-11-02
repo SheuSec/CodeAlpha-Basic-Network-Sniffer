@@ -96,7 +96,7 @@ nslookup example.com 1.1.1.1
 
 and its result.
 
-![DNS Lookup Test](../screenshots/13-dns-lookup-test.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/DNS%20Lookup%20Test.pdf
 
 ## 7.8 Security Relevance
 
