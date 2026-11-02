@@ -90,8 +90,3 @@ The development environment was successfully prepared, the required Scapy depend
 
 This environment provided the foundation for implementing and testing the network packet sniffer.
 
----
-
-**Project:** CodeAlpha Basic Network Sniffer  
-**Author:** Sheu Abduljelil  
-**Internship:** CodeAlpha Cybersecurity Internship
