@@ -108,7 +108,7 @@ It displayed the source and destination addresses, port numbers, and packet size
 
 ### Screenshot 1: TCP Traffic Capture
 
-![TCP Traffic Capture](../screenshots/07-live-tcp-packet-capture.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/TCP%20Packet%20Capture.pdf
 
 ### Screenshot 2: ICMP Testing
 
