@@ -70,9 +70,6 @@ CodeAlpha-Basic-Network-Sniffer/
 │
 ├── screenshots/
 │
-├── sniffer.py
-├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
