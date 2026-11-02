@@ -57,8 +57,6 @@ Testing is performed within an authorized laboratory
 environment. The application focuses on packet metadata 
 and does not decrypt encrypted communications.
 
----
-
 **Project:** CodeAlpha Basic Network Sniffer  
 **Author:** Sheu Abduljelil  
 **Email:** writewithsheuGmail.com
