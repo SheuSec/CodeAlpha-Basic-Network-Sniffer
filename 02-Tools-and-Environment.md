@@ -89,9 +89,3 @@ The interface was used to monitor IPv4 packets during the practical tests.
 The development environment was successfully prepared, the required Scapy dependency was installed and verified, and the Python source file passed its syntax compilation check.
 
 This environment provided the foundation for implementing and testing the network packet sniffer.
-
----
-
-**Project:** CodeAlpha Basic Network Sniffer  
-**Author:** Sheu Abduljelil  
-**Internship:** CodeAlpha Cybersecurity Internship
