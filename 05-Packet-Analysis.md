@@ -109,7 +109,7 @@ Capture the Echo Request and Echo Reply messages.
 
 ![ICMP Packet Analysis](../screenshots/11-icmp-request-reply-analysis.png)
 
-### Screenshot 3: DNS Analysis
+### Screenshot 3: UDP Analysis
 
 Capture the DNS query for example.com and its response.
 
