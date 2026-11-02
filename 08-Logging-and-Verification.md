@@ -90,7 +90,7 @@ Capture the terminal showing the log file and its size.
 
 Capture the terminal showing packet records from `logs/packets.log`.
 
-![Captured Packet Records](../screenshots/14-packet-log-content.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/Captured%20Packet%20Records.pdf
 
 ## 8.8 Security Considerations
 
