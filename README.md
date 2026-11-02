@@ -78,7 +78,6 @@ CodeAlpha-Basic-Network-Sniffer/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
 cd CodeAlpha-Basic-Network-Sniffer
 ```
 
