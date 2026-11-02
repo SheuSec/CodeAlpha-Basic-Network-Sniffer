@@ -127,16 +127,10 @@ Capture the complete or clearly readable sections of `sniffer.py` in your Kali e
 
 Capture the terminal showing the application starting successfully and listening for packets.
 
-![Running Network Sniffer](../screenshots/07-sniffer-running.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/sniffer-running.pdf
 
 ## 4.10 Conclusion
 
 The Python application was developed using Scapy's packet-capture functionality.
 
 It combines packet identification, metadata extraction, DNS analysis, timestamps, and local logging to provide a basic network monitoring tool.
-
----
-
-**Project:** CodeAlpha Basic Network Sniffer  
-**Author:** Sheu Abduljelil  
-**Internship:** CodeAlpha Cybersecurity Internship
