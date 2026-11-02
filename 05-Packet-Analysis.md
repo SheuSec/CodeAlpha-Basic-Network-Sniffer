@@ -107,7 +107,7 @@ Capture a real TCP packet displayed by the running sniffer.
 
 Capture the Echo Request and Echo Reply messages.
 
-![ICMP Packet Analysis](../screenshots/11-icmp-request-reply-analysis.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/ICMP%20Analysis.pdf
 
 ## 5.9 Conclusion
 
