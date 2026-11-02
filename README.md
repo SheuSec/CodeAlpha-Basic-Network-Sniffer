@@ -134,7 +134,7 @@ Explore the project documentation:
 5. [Network Packet Analysis](02-Implementation/05-Packet-Analysis.md)
 6. [TCP, UDP and ICMP Testing](03-Testing-and-Results/06-TCP-UDP-ICMP-Testing.md)
 7. [DNS Traffic Analysis](03-Testing-and-Results/07-DNS-Traffic-Analysis.md)
-8. [Packet Logging and Verification](03-Testing-and-Results/08-Logging-and-Verification.md)
+8. [Packet Logging and Verification](https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/08-Logging-and-Verification.md)
 
 ## 🔐 Security and Ethical Considerations
 
