@@ -66,7 +66,7 @@ The command completed without reporting any errors.
 
 This screenshot demonstrates the Scapy installation process in Kali Linux.
 
-![Scapy Installation](../screenshots/03-scapy-installation.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/scapy-installation.pdf
 
 ### Screenshot 2: Scapy Version Verification
 
