@@ -109,12 +109,6 @@ Capture the Echo Request and Echo Reply messages.
 
 ![ICMP Packet Analysis](../screenshots/11-icmp-request-reply-analysis.png)
 
-### Screenshot 3: UDP Analysis
-
-Capture the UDP query for example.com and its response.
-
-![DNS Packet Analysis](../screenshots/10-dns-query-response-analysis.png)
-
 ## 5.9 Conclusion
 
 The packet analysis functionality demonstrates how Python and Scapy can be used to identify network protocols and extract useful packet metadata.
