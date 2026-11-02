@@ -102,7 +102,6 @@ sudo .venv/bin/python sniffer.py
 
 The application is configured to monitor the `eth0` interface.
 
-Press `CTRL+C` to stop packet capture.
 
 ## 🧪 Practical Testing
 
