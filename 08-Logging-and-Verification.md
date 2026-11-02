@@ -84,7 +84,7 @@ When the user stops the sniffer using `CTRL+C`, the application displays a summa
 
 Capture the terminal showing the log file and its size.
 
-![Packet Logging Directory](../screenshots/12-packet-logging.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/Packet%20Logging%20Directory.pdf
 
 ### Screenshot 2: Captured Packet Records
 
