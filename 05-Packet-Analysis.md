@@ -101,7 +101,7 @@ For each IPv4 packet, the application displays:
 
 Capture a real TCP packet displayed by the running sniffer.
 
-![TCP Packet Capture](../screenshots/07-live-tcp-packet-capture.png)
+https://github.com/SheuSec/CodeAlpha-Basic-Network-Sniffer/blob/main/screenshots/TCP%20Packet%20Capture.pdf
 
 ### Screenshot 2: ICMP Analysis
 
